@@ -1,4 +1,7 @@
 dUno
 ====
 
-Distributed Card Game implemente in Scala
+Distributed Card Game implemented in Scala
+
+Requires Scala and SBT installed.
+
